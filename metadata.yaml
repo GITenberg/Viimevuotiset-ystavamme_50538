@@ -1,4 +1,8 @@
 _repo: Viimevuotiset-ystavamme_50538
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Alcott, Louisa May
@@ -12,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/102
     wikipedia: http://en.wikipedia.org/wiki/Louisa_May_Alcott
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/50538#Viimevuotiset-ystavamme
 gutenberg_issued: '2015-11-23'
 gutenberg_type: Text
 identifiers:
